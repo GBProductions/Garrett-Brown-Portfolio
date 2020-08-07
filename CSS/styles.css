@@ -8,7 +8,7 @@ body {
 }
 
 
-.my-class {
+.sidebar-1 {
   border: 2px solid black;
   margin-top: 5px;
   margin-bottom: 5px;
@@ -20,34 +20,10 @@ body {
 
 }
 
-.sidebar {
-  float: center;
-}
-
 .sidebar-2 {
-  float: left;
+  float: right;
   background-color: blanchedalmond;
   border: 2px solid black;
   padding: 10px;
   width: 20%;
-}
-
-.column {
-  float: left;
-  width: 50%;
-}
-
-.right {
-  width: 25%;
-}
-
-.left {
-  width: 75%;
-}
-
-/*Clear floats after the columns */
-.row::after;{
-  content: "";
-  display: table;
-  clear: both;
 }
