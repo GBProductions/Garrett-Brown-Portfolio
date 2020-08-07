@@ -43,6 +43,7 @@ img {
   height: Auto;
   width: 100px;
   margin-right: 5px;
+  border-radius: 50%;
 }
 
 .Header {
