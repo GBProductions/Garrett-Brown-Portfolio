@@ -1,12 +1,14 @@
 # _Garrett Brown Programming Portfolio_
 
-#### _{Brief description of application}, Last updated August 7th 2020 _
+#### _A webpage dedicated to displaying Garrett Brown's Programming Portfoilio from Epicodus. Last updated August 7th 2020_
 
 #### By _**Garrett Brown <garrettpaulbrown@gmail.com**_
 
 ## Description
 
-_A HTML webpage that details Garrett Brown's Programming Portfolio. Projects include assignments completed while a student at Epicodus.
+_A HTML webpage that details Garrett Brown's Programming Portfolio. Projects include assignments completed while a student at Epicodus. This page includes a photo, a biography section, a list of current interests and hobbies, as well as Garrett Brown's other life skills. Also attached is a list of selected projects completed while at Epicodus (hyper links are to projects hosted on GitHub repositories)._
+
+This project can be downloaded from a GitHub repository, or seen live here:
 https://gbproductions.github.io/Garrett-Brown-Portfolio/_
 
 ## Setup/Installation Requirements
@@ -35,4 +37,4 @@ _Technologies Used_
 
 *Licensed under MIT*
 
-Copyright (c) 2016 **_<garrettpaulbrown@gmail.com>_**
+Copyright (c) 2020 **_<garrettpaulbrown@gmail.com>_**
