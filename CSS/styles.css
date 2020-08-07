@@ -1,3 +1,8 @@
+body {
+  background-color: cornflowerblue;
+}
+
+
 .heading-1 {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -5,12 +10,15 @@
 
 .my-class {
   border: 2px solid black;
+  margin-top: 5px;
+  margin-bottom: 5px;
   background-color: burlywood;
   padding: 10px;
+  float: left;
 
 }
 
-.my-class {
+.my-class-2 {
   float: left;
-  padding: 10px;
+  border: 1px solid black;
 }
