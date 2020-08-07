@@ -15,7 +15,7 @@ body {
   background-color: burlywood;
   padding: 10px;
   float: inline-start;
-  width: 50%;
+  width: 70%;
   text-align: left;
 }
 
@@ -42,6 +42,7 @@ body {
 img {
   height: Auto;
   width: 100px;
+  margin-right: 5px;
 }
 
 .Header {
@@ -53,3 +54,5 @@ img {
   float: inline-start;
   width: 50%;
   text-align: left;
+}
+
