@@ -20,5 +20,12 @@ body {
 
 .my-class-2 {
   float: left;
-  border: 1px solid black;
+  border: solid black;
+}
+
+.photo-1 {
+  float: left;
+  width: 25%;
+  margin: auto;
+  height: auto;
 }
