@@ -15,7 +15,7 @@ body {
   background-color: burlywood;
   text-align: center;
   padding: 10px;
-  float: left;
+  float: inline-start;
   width: 80%;
 
 }
@@ -26,4 +26,5 @@ body {
   border: 2px solid black;
   padding: 10px;
   width: 20%;
+  height: auto;
 }
