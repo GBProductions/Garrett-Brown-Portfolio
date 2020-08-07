@@ -29,6 +29,16 @@ body {
   height: auto;
 }
 
+.sidebar-3 {
+  border: 2px solid black;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background-color: burlywood;
+  text-align: center;
+  padding: 10px;
+  float: inline-start;
+  width: 80%;
+
 img {
   height: auto;
   width: 30%;
