@@ -16,7 +16,7 @@ body {
   text-align: center;
   padding: 10px;
   float: inline-start;
-  width: 80%;
+  width: 70%;
 
 }
 
@@ -33,13 +33,13 @@ body {
   border: 2px solid black;
   margin-top: 5px;
   margin-bottom: 5px;
-  background-color: burlywood;
-  text-align: center;
+  background-color: palegoldenrod;
+  text-align: left;
   padding: 10px;
   float: inline-start;
-  width: 80%;
+  width: 70%;
 
 img {
-  height: auto;
-  width: 30%;
+  height: Auto;
+  width: 100%;
 }
