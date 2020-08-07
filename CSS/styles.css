@@ -13,19 +13,12 @@ body {
   margin-top: 5px;
   margin-bottom: 5px;
   background-color: burlywood;
+  text-align: center;
   padding: 10px;
   float: left;
 
 }
 
-.my-class-2 {
-  float: left;
-  border: solid black;
-}
-
-.photo-1 {
-  float: left;
-  width: 25%;
-  margin: auto;
-  height: auto;
+.sidebar {
+  float: center;
 }
