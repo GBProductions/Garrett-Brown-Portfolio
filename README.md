@@ -6,7 +6,8 @@
 
 ## Description
 
-_A HTML webpage that details Garrett Brown's Programming Portfolio. Projects include assignments completed while a student at Epicodus._
+_A HTML webpage that details Garrett Brown's Programming Portfolio. Projects include assignments completed while a student at Epicodus.
+https://gbproductions.github.io/Garrett-Brown-Portfolio/_
 
 ## Setup/Installation Requirements
 
