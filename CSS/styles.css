@@ -1,12 +1,9 @@
 body {
   background-color: cornflowerblue;
 }
-
-
 .heading-1 {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-style: oblique;
-  
 }
 .sidebar-1 {
   border: 2px solid black;
@@ -18,7 +15,6 @@ body {
   width: 70%;
   text-align: left;
 }
-
 .sidebar-2 {
   float: right;
   background-color: blanchedalmond;
@@ -28,7 +24,6 @@ body {
   height: auto;
   text-align: left;
 }
-
 .sidebar-3 {
   border: 2px solid black;
   margin-top: 5px;
@@ -39,7 +34,6 @@ body {
   float: inline-start;
   width: 70%;
 }
-
 img {
   height: Auto;
   width: 100px;
@@ -47,7 +41,6 @@ img {
   border-radius: 50%;
   border: 2px solid black;
 }
-
 .Header {
   border: 2px solid black;
   margin-top: 5px;
@@ -58,19 +51,15 @@ img {
   width: 50%;
   text-align: left;
 }
-
 h4 {
   text-align: center;
   border: 4px solid black;
 }
-
 .column-1 {
   width: 300px;
   float: left;
 }
-
 .column-2 {
   width: 300px;
   float: left;
-
 }
